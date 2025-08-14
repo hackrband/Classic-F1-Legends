@@ -1,2 +1,3 @@
 # Classic-F1-Legends
-Inspired by MK Coding YT
+2D Formula 1 racing game built with the Ursina engine.
+`Inspired by MK Coding YT`
